@@ -1,0 +1,9 @@
+Ingredients:
+ - Pork chop
+ - Panko
+ - Flour
+ - Egg
+
+Directions:
+  1. Fry the pork chop
+  2. Top with tonkatsu sauce
